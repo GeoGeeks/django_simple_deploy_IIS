@@ -21,6 +21,8 @@ A simple example for deploying a basic Django app on IIS
 Go to [this page](https://www.python.org/downloads/release/python-360/) and install python 3.6, remember that is very important to have this version, otherwise your project might not work.
 
 ![](https://github.com/GeoGeeks/django_simple_deploy_IIS/blob/master/Images/1.png?raw=true)
+
+
 If your current path has whitespaces you should change it with the "Custom installation" button. If that is not the case, you should check the "Add python to path" checkbox. 
 
 If you had to change your path, you should check the environment variables to add python 3 and python3/scripts
