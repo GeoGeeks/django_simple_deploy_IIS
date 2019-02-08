@@ -186,7 +186,7 @@ Then, on security tab you may find an 'Edit' button. Click on it and select "add
 
 On name write:
 ```
-IIS AppPool/"your_pool"
+IIS AppPool\"your_pool"
 ```
 click on check names and click the 'Ok' button.
 click 'apply' and 'ok' buttons untill you are done with the properties window.
